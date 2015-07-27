@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
+
 // For an overview see http://cocoadocs.org/docsets/ObjectiveSugar/
 
 @interface NSArray (ObjectiveSugar)
